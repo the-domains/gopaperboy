@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[gopaperboy]]></title>
         <description><![CDATA[gopaperboy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gopaperboy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 23:29:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 04:30:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gopaperboy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>What the fuck is this</p>]]></description>
+            <link>https://thegrid.ai/gopaperboy/5028df12-addb-4e32-93bf-dc0967128459/index.html</link>
+            <guid isPermaLink="false">5028df12-addb-4e32-93bf-dc0967128459</guid>
+            <pubDate>Sun, 21 Feb 2016 04:30:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>GO Paperboy</p>]]></description>
-            <link>undefinedeb41c32e-45bf-48e8-931f-7fb2a2ecb629/index.html</link>
+            <link>https://thegrid.ai/gopaperboy/eb41c32e-45bf-48e8-931f-7fb2a2ecb629/index.html</link>
             <guid isPermaLink="false">eb41c32e-45bf-48e8-931f-7fb2a2ecb629</guid>
             <pubDate>Sat, 20 Feb 2016 23:29:05 GMT</pubDate>
         </item>
